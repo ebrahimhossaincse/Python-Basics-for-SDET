@@ -1,5 +1,6 @@
-number_1 = 10
-number_2 = 5
+number_1 = int(input('Enter first number: '))
+number_2 = int(input('Enter second number: '))
+
 sum_result = number_1 + number_2  # Addition
 difference = number_1 - number_2  # Subtraction
 product = number_1 * number_2  # Multiplication
